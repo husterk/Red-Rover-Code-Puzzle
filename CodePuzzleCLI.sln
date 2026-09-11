@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePuzzleCLI", "CodePuzzleCLI\CodePuzzleCLI.csproj", "{7ACF6302-7E20-4F1A-A510-B73C16078414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePuzzleCLI.UnitTests", "CodePuzzleCLI.UnitTests\CodePuzzleCLI.UnitTests.csproj", "{B70ED4DA-029F-49E1-BA1A-E448BB918272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ACF6302-7E20-4F1A-A510-B73C16078414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACF6302-7E20-4F1A-A510-B73C16078414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACF6302-7E20-4F1A-A510-B73C16078414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACF6302-7E20-4F1A-A510-B73C16078414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70ED4DA-029F-49E1-BA1A-E448BB918272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70ED4DA-029F-49E1-BA1A-E448BB918272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70ED4DA-029F-49E1-BA1A-E448BB918272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70ED4DA-029F-49E1-BA1A-E448BB918272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
